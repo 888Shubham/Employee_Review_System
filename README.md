@@ -156,8 +156,12 @@ The Employee Review System facilitates the feedback process among employees in a
 
 Contributions are welcome! Please create a new branch for your changes and submit a pull request for review.
 
+## Hosted URL
+You can access the deployed application [here](https://employee-review-system-l1sk.onrender.com).
 
-##Screenshots
+
+
+## Screenshots
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 1](screenshots/screenshot2.png)
 ![Screenshot 1](screenshots/screenshot3.png)
